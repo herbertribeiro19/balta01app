@@ -8,4 +8,6 @@ A Flutter project to Mobile. 📱
 - Android Studio
 - Git & GitHub
 
+## Link para baixar o aplicativo
+- [Download App](https://drive.google.com/file/d/1TGwkPa2EvaTPzziQzcni2ikkxYwl67Vr/view?usp=share_link) 💻
 
