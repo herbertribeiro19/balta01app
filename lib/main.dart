@@ -15,7 +15,7 @@ class App extends StatelessWidget {
       title: 'ToDo App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
         useMaterial3: true,
       ),
       home: HomePage(),
@@ -130,6 +130,7 @@ class _HomePageState extends State<HomePage> {
         onPressed: add,
         child: Icon(Icons.add),
         backgroundColor: Colors.red,
+        foregroundColor: Colors.white,
       ),
     );
   }
