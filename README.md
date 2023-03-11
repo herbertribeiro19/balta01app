@@ -9,4 +9,4 @@ A Flutter project to Mobile. 📱
 - Git & GitHub
 
 ## Link para baixar o aplicativo
-- [Download App](https://drive.google.com/file/d/1OSJ7EkRuybsx1EnhMwAlsZiRa_K4teoZ/view?usp=sharing) 💻
+- [Download App](https://drive.google.com/file/d/1SxyUEpTwBHV2DLfeznmXqPXssQ2mEfDN/view?usp=sharing) 💻
